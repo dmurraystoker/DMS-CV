@@ -1,0 +1,234 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+geometry: margin=1in
+keep_tex: FALSE
+
+
+title: "CV"
+author: David Murray-Stoker
+
+jobtitle: "Ph.D. Candidate, University of Toronto"
+address: "Department of Ecology & Evolutionary Biology"
+fontawesome: yes
+email: dstoker92@gmail.com
+github: dmurraystoker
+twitter: dmurraystoker
+#osf: "9chg5"
+#phone: ""
+web: dmurraystoker.github.io/
+#updated: yes
+
+#keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: purple
+urlcolor: purple
+---
+ 
+<!-- Adapted from Steven Miller's template: http://svmiller.com/blog/2016/03/svm-r-markdown-cv/ -->
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE)
+library(kableExtra)
+```
+
+
+# Education
+**University of Toronto**, Toronto, ON, Canada \hfill 2018-present  
+Ph.D. Candidate, Ecology & Evolutionary Biology
+
+\vspace{4pt}
+
+**University of Georgia**, Athens, GA, USA \hfill 2011-2016  
+B.S. Ecology, *cum laude*
+
+\vspace{4pt}
+
+
+# Publications
+6\.&nbsp;&nbsp;
+**Murray-Stoker, D.**, and K. M. Murray-Stoker. 2020. Consistent metacommunity structure despite
+inconsistent drivers of assembly at the continental scale. Journal of Animal Ecology 89: 1678-1689. DOI: [10.1111/1365-2656.13220](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13220) | [Data & Code](https://osf.io/62je8/)
+
+5\.&nbsp;&nbsp;
+Santangelo J.S., Miles, L.S., Breitbart, S.T., **Murray-Stoker, D.**, Rivkin, L.R., Johnson, M.T.J. and Ness, R.W., Urban environments as a framework to study parallel evolution. In: *Urban Evolutionary Biology.* Edited by Marta Szulkin, Jason Munshi-South and Anne Charmantier: Oxford University Press (2020). © Oxford University Press. DOI: [10.1093/oso/9780198836841.003.0003](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198836841.001.0001/oso-9780198836841-chapter-3)
+
+4\.&nbsp;&nbsp;
+**Murray-Stoker, D.** 2020. On the efficacy of restoration in stream networks: comments, critiques,
+and prospective recommendations. bioRxiv:611939, version 7. Peer-reviewed and recommended
+by Peer Community In Ecology. DOI: [https://doi.org/10.1101/611939](http://biorxiv.org/lookup/doi/10.1101/611939) | [Data & Code](https://figshare.com/articles/dataset/On_the_relativity_and_efficacy_of_restoration_in_stream_networks_comment/6448010)
+
+3\.&nbsp;&nbsp;
+Murray-Stoker, K. M., D. P. Batzer, **D. Murray-Stoker**, and J. V. McHugh. 2020. Shifts in
+the community composition of caddisflies (Insecta: Trichoptera) in a subtropical river over three
+decades. Ecological Entomology 45: 514-524. DOI: [10.1111/een.12822](https://onlinelibrary.wiley.com/doi/abs/10.1111/een.12822)
+
+2\.&nbsp;&nbsp;
+Murray, K. M., **D. Stoker**, C. M. Pringle, and T. N. Simon. 2018. Is spatial variation in population
+size structures of a stream-dwelling caddisfly due to the altered effects of a predator by a thirdparty
+species? Hydrobiologia 820:65-77. DOI: [10.1007/s10750-018-3674-0](http://link.springer.com/10.1007/s10750-018-3674-0) |  [Data & Code](https://figshare.com/articles/dataset/Phylloicus_hansoni_larval_population_size_structures_in_both_predator-only_and_predator-third_party_stream_settings/5856651)
+
+1\.&nbsp;&nbsp;
+**Stoker, D.**, A. J. Falkner, K. M. Murray, A. K. Lang, T. R. Barnum, J. Hepinstall-Cymerman, M.
+J. Conroy, R. J. Cooper, and C. M. Pringle. 2017. Decomposition of terrestrial resource subsidies
+in headwater streams: Does consumer diversity matter? Ecosphere 8:e01868. DOI: [10.1002/ecs2.1868](http://doi.wiley.com/10.1002/ecs2.1868) | [Data & Code](https://figshare.com/articles/dataset/Decomposition_of_terrestrial_resource_subsidies_in_headwater_streams_Does_consumer_diversity_matter_/6025811)
+
+\vspace{4pt}
+
+
+# Manuscripts (*In review*)
+2\.&nbsp;&nbsp;
+**Murray-Stoker, D.**, and M.T.J. Johnson. Ecological consequences of urbanization on a legumerhizobia
+mutualism. *In review at Oikos*
+  - [Preprint](https://www.biorxiv.org/content/10.1101/2021.01.24.427992v1)
+
+1\.&nbsp;&nbsp;
+Barnum, T. R., J. T. Wootton, R. J. Bixby, J. M. Drake, **D. Murray-Stoker**, C. Colon-Gaud, A.
+T. Rugenski, T. C. Frauendorf, S. Connelly, S. S. Kilham, M. R. Whiles, K. R. Lips, and C. M.
+Pringle. Mechanisms underlying lack of functional compensation by insect grazers after tadpole
+declines in a Neotropical stream. *In review at Limnology & Oceanography*
+
+\vspace{4pt}
+
+
+# Honours & Awards
+Rustom H. Dastur Graduate Scholarship in Ecology & Evolutionary Biology \hfill 2018-Present
+
+University of Toronto Faculty of Arts & Science Program-Level Fellowship \hfill 2018-Present
+
+Josh Laerm Memorial Outstanding Undergraduate Award \hfill 2015
+
+\vspace{4pt}
+
+
+# Funding
+Centre for Urban Environments Research Fund (**$2000**) \hfill 2021
+
+CURO Undergraduate Research Assistantship (**$1000**) \hfill 2015
+
+Society for Freshwater Science Undergraduate Travel Award (**$600**) \hfill 2015
+
+Thelma Richardson & Frank Golley Undergraduate Support Award (**$500**) \hfill 2015
+
+\vspace{4pt}
+
+
+# Presentations
+4\.&nbsp;&nbsp;
+**Stoker, D.**, A. J. Falkner, K. M. Murray, A. K. Lang, T. R. Barnum, J. Hepinstall-Cymerman, M. J.
+Conroy, R. J. Cooper, and C. M. Pringle. 2016. Decomposition of terrestrial resource subsidies in
+aquatic ecosystems: Does consumer diversity matter? Odum School of Ecology Graduate Student
+Symposium, Athens, GA. (Poster)
+
+3\.&nbsp;&nbsp;
+**Stoker, D.**, A. J. Falkner, K. M. Murray, A. K. Lang, T. R. Barnum, J. Hepinstall-Cymerman,
+M. J. Conroy, R. J. Cooper, and C. M. Pringle. 2015. Decomposition of terrestrial resource
+subsidies in headwater streams: Does consumer diversity matter? Annual Meeting of the Society
+for Freshwater Science, Milwaukee, WI. (Poster)
+
+2\.&nbsp;&nbsp;
+**Stoker, D.**, A. J. Falkner, K. M. Murray, A. K. Lang, T. R. Barnum, J. Hepinstall-Cymerman,
+M. J. Conroy, R. J. Cooper, and C. M. Pringle. 2015. Decomposition of terrestrial resource
+subsidies in headwater streams: Does consumer diversity matter? Annual Southeastern Ecology
+and Evolution Conference, Athens, GA. (Oral)
+
+1\.&nbsp;&nbsp;
+Barnum, T. R., J. T. Wootton, R. J. Bixby, J. M. Drake, C. Colon-Gaud, **D. Stoker**, A. T.
+Rugenski, T. C. Frauendorf, S. J. Connelly, S. S. Kilham, M. R. Whiles, and K. R. Lips. 2014.
+Examining why grazing mayflies do not functionally compensate for the top-down control of algal
+communities following disease-driven tadpole declines in a Neotropical stream. Annual Meeting
+of the Ecological Society of America, Sacramento, CA. (Oral)
+
+\vspace{4pt}
+
+
+# Teaching
++ *University of Toronto Mississauga*  
+  - **Teaching Assistant**, Ecology (BIO205) \hfill 2018, 2019, 2020
+  - **Teaching Assistant**, Biometrics I (BIO360) \hfill 2019, 2020, 2021  
+
+\vspace{4pt}
+
++ *University of Toronto*
+  - **Teaching Assistant**, Ecosystem Structure & Function (ENV234) \hfill 2018
+
+\vspace{4pt}
+
+
+# Academic Service
+
+## Departmental Committees
++ UTM Equity, Diversity, and Inclusion Committee \hfill 2020-Present
+  - Founding graduate student member
+
++ U of T EEB Wellness Committee \hfill 2020-Present
+
++ UTM Biology Seminar Committee \hfill 2019-2020
+
++ UTM Biology Undergraduate Report Committee \hfill2019
+
+\vspace{4pt}
+
+
+## Mentoring
++ **UTM Grad Connect Program** \hfill October 2020 - Present
+  - Department of Biology
+  - University of Toronto Mississauga
+    * Mentee: Lina Hasan
+
+\vspace{4pt}
+
+
+## Reviewer for
+Peer Community In Ecology, Proceedings of the Royal Society Series B: Biological Sciences
+
+\vspace{4pt}
+
+
+# Professional Experience
++ **Research Assistant** \hfill May 2018-August 2018
+  - Department of Ecology & Evolutionary Biology
+  - University of Toronto
+    * Supervised by Marc T. J. Johnson, Ph.D.
+
++ **Lab Manager** \hfill January 2013-July 2016
+  - Odum School of Ecology
+  - University of Georgia
+    * Supervised by Catherine M. Pringle, Ph.D.
+
++ **Research Assistant** \hfill January 2016-May 2016
+  - Odum School of Ecology
+  - University of Georgia
+    * Supervised by Amanda T. Rugenski, Ph.D.
+
++ **Lab Technician** \hfill November 2014-August 201
+  - Odum School of Ecology
+  - University of Georgia
+    * Supervised by Andrea Silletti, M.S.
+
++ **Field Technician** \hfill May 2013
+  - Odum School of Ecology
+  -University of Georgia
+
+\vspace{4pt}
+
+# Society Memberships
+Ecological Society of America \hfill 2013-Present
+
+Society for the Study of Evolution \hfill 2019-Present
+
+American Society of Naturalists \hfill 2018-Present
+
+Canadian Society for Ecology & Evolution \hfill 2020-Present
+
+Center for Open Science \hfill 2017-Present
+
+Society for Open, Reliable, & Transparent Ecology & Evolution (SORTEE) \hfill 2020-Present
+
+
