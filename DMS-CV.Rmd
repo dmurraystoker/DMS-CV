@@ -48,6 +48,10 @@ Ph.D. Candidate, Ecology & Evolutionary Biology
 **University of Georgia**, Athens, GA, USA \hfill 2011-2016  
 B.S. Ecology, *cum laude*
 
+
+**Gainesville State College**, Gainesville, GA, USA \hfill 2010-2011  
+Prerequisites while dual-enrolled in high school and community college
+
 \vspace{4pt}
 
 
@@ -57,17 +61,17 @@ B.S. Ecology, *cum laude*
 inconsistent drivers of assembly at the continental scale. Journal of Animal Ecology 89: 1678-1689. DOI: [10.1111/1365-2656.13220](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13220) | [Data & Code](https://osf.io/62je8/)
 
 5\.&nbsp;&nbsp;
-Santangelo J.S., Miles, L.S., Breitbart, S.T., **Murray-Stoker, D.**, Rivkin, L.R., Johnson, M.T.J. and Ness, R.W., Urban environments as a framework to study parallel evolution. In: *Urban Evolutionary Biology.* Edited by Marta Szulkin, Jason Munshi-South and Anne Charmantier: Oxford University Press (2020). © Oxford University Press. DOI: [10.1093/oso/9780198836841.003.0003](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198836841.001.0001/oso-9780198836841-chapter-3)
+Santangelo J. S., Miles, L. S., Breitbart, S. T., **Murray-Stoker, D.**, Rivkin, L. R., Johnson, M. T. J. and Ness, R. W., Urban environments as a framework to study parallel evolution. In: *Urban Evolutionary Biology.* Edited by Marta Szulkin, Jason Munshi-South and Anne Charmantier: Oxford University Press (2020). Oxford University Press. DOI: [10.1093/oso/9780198836841.003.0003](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198836841.001.0001/oso-9780198836841-chapter-3)
 
 4\.&nbsp;&nbsp;
 **Murray-Stoker, D.** 2020. On the efficacy of restoration in stream networks: comments, critiques,
 and prospective recommendations. bioRxiv:611939, version 7. Peer-reviewed and recommended
-by Peer Community In Ecology. DOI: [https://doi.org/10.1101/611939](http://biorxiv.org/lookup/doi/10.1101/611939) | [Data & Code](https://figshare.com/articles/dataset/On_the_relativity_and_efficacy_of_restoration_in_stream_networks_comment/6448010)
+by Peer Community In Ecology. DOI: [https://doi.org/10.1101/611939](https://www.biorxiv.org/content/10.1101/611939v8) | [Data & Code](https://figshare.com/articles/dataset/On_the_relativity_and_efficacy_of_restoration_in_stream_networks_comment/6448010)
 
 3\.&nbsp;&nbsp;
 Murray-Stoker, K. M., D. P. Batzer, **D. Murray-Stoker**, and J. V. McHugh. 2020. Shifts in
 the community composition of caddisflies (Insecta: Trichoptera) in a subtropical river over three
-decades. Ecological Entomology 45: 514-524. DOI: [10.1111/een.12822](https://onlinelibrary.wiley.com/doi/abs/10.1111/een.12822)
+decades. Ecological Entomology 45: 514-524. DOI: [10.1111/een.12822](https://onlinelibrary.wiley.com/doi/abs/10.1111/een.12822) | [Data & Code](https://figshare.com/articles/dataset/Shifts_in_the_community_composition_of_caddisflies_Insecta_Trichoptera_in_a_subtropical_river_over_three_decades/14237687)
 
 2\.&nbsp;&nbsp;
 Murray, K. M., **D. Stoker**, C. M. Pringle, and T. N. Simon. 2018. Is spatial variation in population
@@ -85,8 +89,7 @@ in headwater streams: Does consumer diversity matter? Ecosphere 8:e01868. DOI: [
 # Manuscripts (*In review*)
 2\.&nbsp;&nbsp;
 **Murray-Stoker, D.**, and M.T.J. Johnson. Ecological consequences of urbanization on a legumerhizobia
-mutualism. *In review at Oikos*
-  - [Preprint](https://www.biorxiv.org/content/10.1101/2021.01.24.427992v1)
+mutualism. [Preprint](https://www.biorxiv.org/content/10.1101/2021.01.24.427992v1) | *In review at Oikos*
 
 1\.&nbsp;&nbsp;
 Barnum, T. R., J. T. Wootton, R. J. Bixby, J. M. Drake, **D. Murray-Stoker**, C. Colon-Gaud, A.
@@ -108,13 +111,17 @@ Josh Laerm Memorial Outstanding Undergraduate Award \hfill 2015
 
 
 # Funding
-Centre for Urban Environments Research Fund (**$2000**) \hfill 2021
+University of Toronto Ecology & Evolutionary Biology Research Grant (**$2000 CAD**) \hfill 2021
 
-CURO Undergraduate Research Assistantship (**$1000**) \hfill 2015
+American Society of Naturalist Student Research Award (**$2000 USD**) \hfill 2021
 
-Society for Freshwater Science Undergraduate Travel Award (**$600**) \hfill 2015
+Centre for Urban Environments Research Fund (**$2000 CAD**) \hfill 2021
 
-Thelma Richardson & Frank Golley Undergraduate Support Award (**$500**) \hfill 2015
+CURO Undergraduate Research Assistantship (**$1000 USD**) \hfill 2015
+
+Society for Freshwater Science Undergraduate Travel Award (**$600 USD**) \hfill 2015
+
+Thelma Richardson & Frank Golley Undergraduate Support Award (**$500 USD**) \hfill 2015
 
 \vspace{4pt}
 
@@ -166,8 +173,14 @@ of the Ecological Society of America, Sacramento, CA. (Oral)
 ## Departmental Committees
 + UTM Equity, Diversity, and Inclusion Committee \hfill 2020-Present
   - Founding graduate student member
+  - Led the survey and report on Equity, Diversity, & Inclusion in the department
+    * Designed the survey questionnaire
+    * Used qualitative analyses to examine the state of the department
+    * Drafted the summary report of the survey
+    * Survey used to identify actionable items and to set a baseline for future surveys
 
-+ U of T EEB Wellness Committee \hfill 2020-Present
++ U of T EEB Wellness Committee \hfill 2020-Present  
+  -Equity, Diversity, & Inclusion Subcommittee
 
 + UTM Biology Seminar Committee \hfill 2019-2020
 
